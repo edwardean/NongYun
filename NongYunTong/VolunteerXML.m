@@ -3,7 +3,7 @@
 //  NongYunTong
 //
 //  Created by Edward on 12-5-18.
-//  Copyright (c) 2012年 TuringTeam. All rights reserved.
+//  Copyright (c) 2012年 南阳理工学院. All rights reserved.
 //
 
 #import "VolunteerXML.h"
