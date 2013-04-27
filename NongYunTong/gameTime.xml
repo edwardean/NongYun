@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="gb2312"?>
+<gameInfos>
+  <gameInfo>
+    <game_id>1</game_id>
+
+    <game_place>南阳体育馆 南阳理工学院体育馆 南阳医学专科高等学校训练馆</game_place>
+
+    <game_project>男子1000米预赛 男子篮球半决赛 花毽团体赛</game_project>
+
+    <game_time>12:30 </game_time>
+
+    <game_date>20121012 </game_date>
+
+    <game_kind>田径 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>2</game_id>
+
+    <game_place>南阳体育馆 南阳理工学院体育馆 南阳医学专科高等学校训练馆</game_place>
+
+    <game_project>男子800米决赛 男子篮球决赛 花毽个人赛</game_project>
+
+    <game_time>14:00 </game_time>
+
+    <game_date>20121012 </game_date>
+
+    <game_kind>田径 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>3</game_id>
+
+    <game_place>水上运动场 南阳农业学校体育馆</game_place>
+
+    <game_project>龙舟小组赛A组 女子篮球半决赛</game_project>
+
+    <game_time>16:30 </game_time>
+
+    <game_date>20121012 </game_date>
+
+    <game_kind>龙舟 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>4</game_id>
+
+    <game_place>水上运动场 南阳农业学校体育馆 </game_place>
+
+    <game_project>龙舟小组赛B组 女子篮球决赛 </game_project>
+
+    <game_time>9:00 </game_time>
+
+    <game_date>20121012 </game_date>
+
+    <game_kind>龙舟 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>11</game_id>
+
+    <game_place>南阳师范学院体育馆 唐河县体育馆 南阳南召县莲花温泉公园 河南油田体育馆</game_place>
+
+    <game_project>乒乓球男单半决赛 舞龙舞狮团体赛 风筝小组赛 秧歌团体赛</game_project>
+
+    <game_time>16:30 </game_time>
+
+    <game_date>20121014 </game_date>
+
+    <game_kind>乒乓球 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>12</game_id>
+
+    <game_place>南阳师范学院体育馆 唐河县体育馆 南阳南召县莲花温泉公园</game_place>
+
+    <game_project>乒乓球男双半决赛 舞龙舞狮决赛 风筝决赛</game_project>
+
+    <game_time>9:00 </game_time>
+
+    <game_date>20121014 </game_date>
+
+    <game_kind>乒乓球 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>13</game_id>
+
+    <game_place>河南工业职业技术学院体育馆 南阳卧龙区麒麟山庄 邓州市宾馆</game_place>
+
+    <game_project>摔跤小组赛第一轮A组 钓鱼小组赛 中国象棋半决赛</game_project>
+
+    <game_time>12:30 </game_time>
+
+    <game_date>20121014 </game_date>
+
+    <game_kind>摔跤 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>14</game_id>
+
+    <game_place>河南工业职业技术学院体育馆 南阳卧龙区麒麟山庄 邓州市宾馆</game_place>
+
+    <game_project>摔跤决赛 钓鱼决赛 中国象棋决赛</game_project>
+
+    <game_time>14:00 </game_time>
+
+    <game_date>20121014 </game_date>
+
+    <game_kind>摔跤 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>24</game_id>
+
+    <game_place>河南油田体育馆 南阳军分区民兵综合训练基地</game_place>
+
+    <game_project>秧歌决赛 民兵军事三项（武装越野）决赛</game_project>
+
+    <game_time>9:00 </game_time>
+
+    <game_date>20121016 </game_date>
+
+    <game_kind>秧歌 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>25</game_id>
+
+    <game_place>南阳市内乡县滨河路 综合训练馆和游泳馆</game_place>
+
+    <game_project>自行车载重海选赛 游泳半决赛</game_project>
+
+    <game_time>12:30 </game_time>
+
+    <game_date>20121016 </game_date>
+
+    <game_kind>自行车载重 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>26</game_id>
+
+    <game_place>南阳市内乡县滨河路 综合训练馆和游泳馆</game_place>
+
+    <game_project>自行车载重决赛 游泳决赛</game_project>
+
+    <game_time>14:00 </game_time>
+
+    <game_date>20121016 </game_date>
+
+    <game_kind>自行车载重 </game_kind>
+  </gameInfo>
+
+  <gameInfo>
+    <game_id>27</game_id>
+
+    <game_place>南阳军分区民兵综合训练基地 </game_place>
+
+    <game_project>民兵军事三项（射击）决赛 </game_project>
+
+    <game_time>16:30 </game_time>
+
+    <game_date>20121016 </game_date>
+
+    <game_kind>民兵军事三项 </game_kind>
+  </gameInfo>
+</gameInfos>

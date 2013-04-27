@@ -1,0 +1,3152 @@
+<?xml version="1.0" encoding="gb2312"?>
+<infos>
+  <info>
+    <Des1>176</Des1>
+
+    <Des2>上海长途汽车客运总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:30</Des4>
+
+    <Des5>170</Des5>
+
+    <Des6>02166050000</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>177</Des1>
+
+    <Des2>上海长途客运南站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:10</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>0215435 3535</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>178</Des1>
+
+    <Des2>上海客运总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:10</Des4>
+
+    <Des5>156</Des5>
+
+    <Des6>02156720594</Des6>
+
+    <Des7>合客</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>179</Des1>
+
+    <Des2>上海客运总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:30:00</Des4>
+
+    <Des5>170</Des5>
+
+    <Des6>02156720594</Des6>
+
+    <Des7>宇通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>180</Des1>
+
+    <Des2>上海武宁长途</Des2>
+
+    <Des3>镇平县</Des3>
+
+    <Des4>15:30</Des4>
+
+    <Des5>170元</Des5>
+
+    <Des6>02166050000</Des6>
+
+    <Des7>郑州</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>181</Des1>
+
+    <Des2>上海武宁长途</Des2>
+
+    <Des3>镇平县</Des3>
+
+    <Des4>10:10</Des4>
+
+    <Des5>170元</Des5>
+
+    <Des6>02166050000</Des6>
+
+    <Des7>郑州</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>182</Des1>
+
+    <Des2>上海南站</Des2>
+
+    <Des3>唐河县</Des3>
+
+    <Des4>15:10:00</Des4>
+
+    <Des5>180元</Des5>
+
+    <Des6>0215435 3535</Des6>
+
+    <Des7>豪华大巴</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>183</Des1>
+
+    <Des2>上海白莲泾站</Des2>
+
+    <Des3>方城县</Des3>
+
+    <Des4>10:00:00</Des4>
+
+    <Des5>168</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>宇通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>184</Des1>
+
+    <Des2>东莞市汽车东站(寮步)</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>12:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07698326 6002</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>185</Des1>
+
+    <Des2>东莞南城汽车客运总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>16:00</Des4>
+
+    <Des5>180元</Des5>
+
+    <Des6>076922906613</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>186</Des1>
+
+    <Des2>东莞南城汽车客运总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>16:00</Des4>
+
+    <Des5>180元</Des5>
+
+    <Des6>076922906613</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>187</Des1>
+
+    <Des2>东莞汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>12:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>076922701666</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>188</Des1>
+
+    <Des2>东莞市汽车客运东站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>16:00</Des4>
+
+    <Des5>180</Des5>
+
+    <Des6>076922906613</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>189</Des1>
+
+    <Des2>东莞南城汽车客运总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>16:00</Des4>
+
+    <Des5>180</Des5>
+
+    <Des6>076922906613</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>190</Des1>
+
+    <Des2>东莞大朗汽车客运总站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>11:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07698311 1063</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>191</Des1>
+
+    <Des2>东莞大朗汽车客运总站</Des2>
+
+    <Des3>镇平县</Des3>
+
+    <Des4>15:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07698311 1063</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>192</Des1>
+
+    <Des2>东莞大朗汽车客运总站</Des2>
+
+    <Des3>内乡县</Des3>
+
+    <Des4>11:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07698311 1064</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>193</Des1>
+
+    <Des2>鹤壁淇县汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>65</Des5>
+
+    <Des6>0392722 2283</Des6>
+
+    <Des7>普通车</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>194</Des1>
+
+    <Des2>鹤壁市长风汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>无</Des4>
+
+    <Des5>78</Des5>
+
+    <Des6>03922622885</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>195</Des1>
+
+    <Des2>鹤壁淇县汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>8:00</Des4>
+
+    <Des5>65</Des5>
+
+    <Des6>0392722 2283</Des6>
+
+    <Des7>普通车</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>196</Des1>
+
+    <Des2>鹤壁市长风汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>无</Des4>
+
+    <Des5>78</Des5>
+
+    <Des6>03922622885</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>197</Des1>
+
+    <Des2>新乡市汽车总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>6:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>63131661</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>198</Des1>
+
+    <Des2>新乡市汽车总站</Des2>
+
+    <Des3>内乡县</Des3>
+
+    <Des4>5:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>63131661</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>199</Des1>
+
+    <Des2>北京赵公口长途客运汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>无</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>01067237328</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>200</Des1>
+
+    <Des2>北京广渠门(马圈)长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>无</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>1067717620</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>201</Des1>
+
+    <Des2>北京祥龙赵公口客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>7:00</Des4>
+
+    <Des5>135</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>202</Des1>
+
+    <Des2>北京六里桥长途客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>17:30</Des4>
+
+    <Des5>149</Des5>
+
+    <Des6>01083831716</Des6>
+
+    <Des7>大型高二级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>203</Des1>
+
+    <Des2>北京六里桥长途客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:00</Des4>
+
+    <Des5>149</Des5>
+
+    <Des6>01083831717</Des6>
+
+    <Des7>大型高二级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>204</Des1>
+
+    <Des2>北京莲花池长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:00</Des4>
+
+    <Des5>149</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>大型卧高一级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>205</Des1>
+
+    <Des2>北京莲花池长途汽车站</Des2>
+
+    <Des3>镇平县</Des3>
+
+    <Des4>08:30隔日逢双</Des4>
+
+    <Des5>149</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>大型高一级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>206</Des1>
+
+    <Des2>北京六里桥长途客运站</Des2>
+
+    <Des3>社旗县</Des3>
+
+    <Des4>12:45</Des4>
+
+    <Des5>119</Des5>
+
+    <Des6>01083831717</Des6>
+
+    <Des7>大型高二级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>207</Des1>
+
+    <Des2>北京莲花池长途汽车站</Des2>
+
+    <Des3>唐河县</Des3>
+
+    <Des4>9:30</Des4>
+
+    <Des5>149</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>大型卧高一级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>208</Des1>
+
+    <Des2>北京六里桥长途客运站</Des2>
+
+    <Des3>方城县</Des3>
+
+    <Des4>10:45</Des4>
+
+    <Des5>119</Des5>
+
+    <Des6>01083831717</Des6>
+
+    <Des7>大型高一级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>209</Des1>
+
+    <Des2>菏泽汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>7:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>210</Des1>
+
+    <Des2>太原长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>17:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>211</Des1>
+
+    <Des2>太原长途汽车站</Des2>
+
+    <Des3>镇平县</Des3>
+
+    <Des4>10:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>212</Des1>
+
+    <Des2>南京中央门站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>7:20</Des4>
+
+    <Des5>142</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>宇通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>213</Des1>
+
+    <Des2>南京中央门站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:40</Des4>
+
+    <Des5>133</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>金龙中巴</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>214</Des1>
+
+    <Des2>南京中央门站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>16:00</Des4>
+
+    <Des5>167</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>北方卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>215</Des1>
+
+    <Des2>阜阳长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>5:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>05582213000</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>216</Des1>
+
+    <Des2>阜阳长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>5:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>05582213001</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>217</Des1>
+
+    <Des2>南线客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07522281222</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>218</Des1>
+
+    <Des2>惠阳区淡水汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>无</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>9803812349</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>219</Des1>
+
+    <Des2>焦作长途汽车客运总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>8:00</Des4>
+
+    <Des5>71</Des5>
+
+    <Des6>0391262 4985</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>220</Des1>
+
+    <Des2>焦作长途汽车客运总站</Des2>
+
+    <Des3>唐河县</Des3>
+
+    <Des4>6:00</Des4>
+
+    <Des5>72</Des5>
+
+    <Des6>0391262 4986</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>221</Des1>
+
+    <Des2>焦作长途汽车客运总站</Des2>
+
+    <Des3>唐河县</Des3>
+
+    <Des4>5:30</Des4>
+
+    <Des5>72</Des5>
+
+    <Des6>0391262 4987</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>222</Des1>
+
+    <Des2>焦作长途汽车客运总站</Des2>
+
+    <Des3>内乡县</Des3>
+
+    <Des4>6:30</Des4>
+
+    <Des5>84</Des5>
+
+    <Des6>0391262 4988</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>223</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>07:10</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223122</Des6>
+
+    <Des7>普通客车</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>224</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>08:10</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223123</Des6>
+
+    <Des7>依维柯</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>225</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>09:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223124</Des6>
+
+    <Des7>依维柯</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>226</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223125</Des6>
+
+    <Des7>依维柯</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>227</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223126</Des6>
+
+    <Des7>依维柯</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>228</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223127</Des6>
+
+    <Des7>依维柯</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>229</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>14:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223128</Des6>
+
+    <Des7>依维柯</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>230</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>14:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223129</Des6>
+
+    <Des7>依维柯</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>231</Des1>
+
+    <Des2>周口市中心汽车站</Des2>
+
+    <Des3>南阳油田</Des3>
+
+    <Des4>7:10</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03948223122</Des6>
+
+    <Des7>依维柯</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>232</Des1>
+
+    <Des2>南昌长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07916263265</Des6>
+
+    <Des7>空调</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>233</Des1>
+
+    <Des2>南昌长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:20停班</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07916263266</Des6>
+
+    <Des7>空调卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>234</Des1>
+
+    <Des2>临沂市汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>05398224605</Des6>
+
+    <Des7>卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>235</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>16:30</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427420</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>236</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>17:00</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427421</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>237</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>18:30</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427422</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>238</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>06:20</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427423</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>239</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>07:00</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427424</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>240</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>07:20</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427425</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>241</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>08:00</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427426</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>242</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>08:40</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427427</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>243</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>09:20</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427428</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>244</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>09:40</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427429</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>245</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:00</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427430</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>246</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:40</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427431</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>247</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:00</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427432</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>248</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:20</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427433</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>249</Des1>
+
+    <Des2>西安汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:40</Des4>
+
+    <Des5>9元/小时</Des5>
+
+    <Des6>02987427434</Des6>
+
+    <Des7>跨省长途</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>250</Des1>
+
+    <Des2>泉州石狮长途客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>7:50</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>251</Des1>
+
+    <Des2>汕头汽车客运中心站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>240</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>空调卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>252</Des1>
+
+    <Des2>汕头汽车客运中心站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>240</Des5>
+
+    <Des6>07548102757</Des6>
+
+    <Des7>空调卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>253</Des1>
+
+    <Des2>汕头汽车客运中心站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>240</Des5>
+
+    <Des6>07548102758</Des6>
+
+    <Des7>空调卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>254</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>06:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653755</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>255</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>06:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653756</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>256</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>07:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653757</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>257</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>08:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653758</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>258</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>09:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653759</Des6>
+
+    <Des7>普</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>259</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653760</Des6>
+
+    <Des7>中</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>260</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653761</Des6>
+
+    <Des7>普</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>261</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653762</Des6>
+
+    <Des7>中</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>262</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653763</Des6>
+
+    <Des7>中</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>263</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>14:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653764</Des6>
+
+    <Des7>普</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>264</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653765</Des6>
+
+    <Des7>中</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>265</Des1>
+
+    <Des2>开封汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03785653766</Des6>
+
+    <Des7>中</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>266</Des1>
+
+    <Des2>三堰长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07176445314</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>267</Des1>
+
+    <Des2>三堰长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>6:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07176445315</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>268</Des1>
+
+    <Des2>三堰长途汽车站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>14:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07176445316</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>269</Des1>
+
+    <Des2>三堰长途汽车站</Des2>
+
+    <Des3>镇平县</Des3>
+
+    <Des4>7:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07176445317</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>270</Des1>
+
+    <Des2>三堰长途汽车站</Des2>
+
+    <Des3>淅川县</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07176445318</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>271</Des1>
+
+    <Des2>三堰长途汽车站</Des2>
+
+    <Des3>淅川县</Des3>
+
+    <Des4>7:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07176445319</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>272</Des1>
+
+    <Des2>三堰长途汽车站</Des2>
+
+    <Des3>内乡县</Des3>
+
+    <Des4>8:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07176445320</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>273</Des1>
+
+    <Des2>大连北岗桥汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>14:30</Des4>
+
+    <Des5>220</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>普卧</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>274</Des1>
+
+    <Des2>青岛长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:15</Des4>
+
+    <Des5>250</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>275</Des1>
+
+    <Des2>义乌长途汽车站（宾王客运中心</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:45</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>普卧</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>276</Des1>
+
+    <Des2>广州市省站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15：30分</Des4>
+
+    <Des5>200</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>277</Des1>
+
+    <Des2>郑州中心站北区(二马路车站)</Des2>
+
+    <Des3>南阳油田</Des3>
+
+    <Des4>13:30 14:30 8:40</Des4>
+
+    <Des5>50</Des5>
+
+    <Des6>037166955596</Des6>
+
+    <Des7>空调中巴高速30%</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>278</Des1>
+
+    <Des2>郑州中心站北区(二马路车站)</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:3018:30/20分钟一班</Des4>
+
+    <Des5>47元</Des5>
+
+    <Des6>037166955596</Des6>
+
+    <Des7>空调中巴高速30%</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>279</Des1>
+
+    <Des2>郑州中心站北区(二马路车站)</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>6:2013:10/30分钟一班</Des4>
+
+    <Des5>47元</Des5>
+
+    <Des6>037166955597</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>280</Des1>
+
+    <Des2>郑州中心站北区(二马路车站)</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:30</Des4>
+
+    <Des5>48元</Des5>
+
+    <Des6>037166955598</Des6>
+
+    <Des7>空调中巴高速30%</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>281</Des1>
+
+    <Des2>郑州长途汽车中心站北区南线</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>6:2013:10 30分钟一班</Des4>
+
+    <Des5>47元</Des5>
+
+    <Des6>(0371)66322269</Des6>
+
+    <Des7>空调中巴高速20%</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>282</Des1>
+
+    <Des2>郑州长途汽车中心站北区南线</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:3018:30 20分钟一班</Des4>
+
+    <Des5>48元</Des5>
+
+    <Des6>(0371)66322270</Des6>
+
+    <Des7>空调中巴高速20%</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>283</Des1>
+
+    <Des2>郑州长途汽车中心站北区南线</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>8:40 13:30 14:30</Des4>
+
+    <Des5>49元</Des5>
+
+    <Des6>(0371)66322271</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>284</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>21:15</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>285</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>17:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>中级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>286</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>16:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>287</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>288</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:00</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>289</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>14:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>290</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>14:00</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>291</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>292</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>12:50</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>293</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:20</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>294</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:50</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>普通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>295</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>296</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:50</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>297</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>普通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>298</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>8:45</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>普通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>299</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>8:20</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>300</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>6:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>普通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>301</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>6:00</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>普通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>302</Des1>
+
+    <Des2>洛阳关林汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>08:30~18:00每小时一班</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037965957496</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>303</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>19:00</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>304</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>17:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>305</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>16:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>306</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>16:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>中高</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>307</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>14:00</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>308</Des1>
+
+    <Des2>洛阳汽车站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>10:30</Des4>
+
+    <Des5>32</Des5>
+
+    <Des6>037963239453</Des6>
+
+    <Des7>高级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>309</Des1>
+
+    <Des2>襄樊长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>6:3018:00/30钟一班</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>0710 2812671</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>310</Des1>
+
+    <Des2>襄樊长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>6:0017:30/40钟一班</Des4>
+
+    <Des5>17</Des5>
+
+    <Des6>0710 2812671</Des6>
+
+    <Des7>中巴</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>311</Des1>
+
+    <Des2>襄樊长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:40 14:40 8:20</Des4>
+
+    <Des5>17</Des5>
+
+    <Des6>0710 2812671</Des6>
+
+    <Des7>中巴</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>312</Des1>
+
+    <Des2>威海汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>8:00</Des4>
+
+    <Des5>245</Des5>
+
+    <Des6>06315969369</Des6>
+
+    <Des7>普卧</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>313</Des1>
+
+    <Des2>文登市汽车站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>8:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>06318451981</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>314</Des1>
+
+    <Des2>宁波客运中心</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:25</Des4>
+
+    <Des5>288</Des5>
+
+    <Des6>057487091212</Des6>
+
+    <Des7>中卧一</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>315</Des1>
+
+    <Des2>深圳沙湾客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>12:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552874 8042</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>316</Des1>
+
+    <Des2>深圳丹竹头汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07558957 5828</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>317</Des1>
+
+    <Des2>深圳坑梓汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:50</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07558413 5056</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>318</Des1>
+
+    <Des2>深圳坪地汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07558994 0533</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>319</Des1>
+
+    <Des2>深圳葵涌汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07558430 5037</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>320</Des1>
+
+    <Des2>深圳龙东汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>12:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07558481 2158</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>321</Des1>
+
+    <Des2>深圳龙运通平湖客货运输站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552845 3881</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>322</Des1>
+
+    <Des2>深圳坪山汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07558460 1808</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>323</Des1>
+
+    <Des2>深圳坪山汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07558994 0533</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>324</Des1>
+
+    <Des2>深圳龙华客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:05</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552811 4518</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>325</Des1>
+
+    <Des2>深圳坪山客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07558460 4495</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>326</Des1>
+
+    <Des2>深圳沙井中心客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>12:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552720 5867</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>327</Des1>
+
+    <Des2>深圳沙井汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552720 5867</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>328</Des1>
+
+    <Des2>深圳沙湾客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>12:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552874 8042</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>329</Des1>
+
+    <Des2>深圳福永汽车客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>12:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552738 3221</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>330</Des1>
+
+    <Des2>深圳西乡汽车客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552791 4573</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>331</Des1>
+
+    <Des2>深圳西乡汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>07552795 6763</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>332</Des1>
+
+    <Des2>深圳南山汽车站(总站)</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:00</Des4>
+
+    <Des5>200</Des5>
+
+    <Des6>07552616 2978</Des6>
+
+    <Des7>大型卧铺中级</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>333</Des1>
+
+    <Des2>深圳龙华客运站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>13:05</Des4>
+
+    <Des5>180元</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>大型高一卧</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>334</Des1>
+
+    <Des2>深圳龙岗汽车总站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>14:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>卧铺</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>335</Des1>
+
+    <Des2>深圳沙井中心客运站</Des2>
+
+    <Des3>新野县</Des3>
+
+    <Des4>11:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>336</Des1>
+
+    <Des2>深圳坪山客运站</Des2>
+
+    <Des3>邓州市</Des3>
+
+    <Des4>8:20</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>337</Des1>
+
+    <Des2>深圳龙华客运站</Des2>
+
+    <Des3>唐河县</Des3>
+
+    <Des4>12:00</Des4>
+
+    <Des5>180元</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>大型高一卧</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>338</Des1>
+
+    <Des2>深圳沙井中心客运站</Des2>
+
+    <Des3>淅川县</Des3>
+
+    <Des4>12:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>339</Des1>
+
+    <Des2>安阳长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>7:00</Des4>
+
+    <Des5>115元</Des5>
+
+    <Des6>03725960175</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>340</Des1>
+
+    <Des2>安阳滑县汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>8:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>一运公司</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>341</Des1>
+
+    <Des2>平顶山客运中心站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>06:5018:30每50分一班</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03754805439</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>342</Des1>
+
+    <Des2>平顶山客运中心站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>06:5016:40每30分一班</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>03754805439</Des6>
+
+    <Des7>空调中巴</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>343</Des1>
+
+    <Des2>天津客运西站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>02227321282</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>344</Des1>
+
+    <Des2>天津客运西站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>9:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>02227321282</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>345</Des1>
+
+    <Des2>天津长途汽车站（南门汽车站）</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>11:30</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>346</Des1>
+
+    <Des2>淄博长途汽车站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>7:40</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>0533288 0239</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>347</Des1>
+
+    <Des2>银川双屿客运中心</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:10</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>无</Des6>
+
+    <Des7>普通</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>348</Des1>
+
+    <Des2>温州汽车西站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>15:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>05778828 9585</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>349</Des1>
+
+    <Des2>温州汽车西站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:10</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>05778828 9585</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+
+  <info>
+    <Des1>350</Des1>
+
+    <Des2>温州汽车西站</Des2>
+
+    <Des3>南阳</Des3>
+
+    <Des4>10:00</Des4>
+
+    <Des5>无</Des5>
+
+    <Des6>05778828 9585</Des6>
+
+    <Des7>无</Des7>
+
+    <Des8>123</Des8>
+  </info>
+</infos>
